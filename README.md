@@ -1,6 +1,6 @@
-# magpie-simon-task
+# magpie-mental-rotation
 
-This is a sample experiment using _magpie.
+This is a sample experiment using magpie.
 
 First, set up the project with `npm install`
 
