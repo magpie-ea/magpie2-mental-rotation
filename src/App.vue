@@ -62,7 +62,7 @@
       :fixationTime="sample([250,300,1000])"
       :responseTime="3000"
       :feedbackTime="1000"
-      :progress="i / training_trials.length"
+      :progress="i / main_trials.length"
       >
       <template #stimulus>
         <Record :data="{
