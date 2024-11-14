@@ -55,7 +55,7 @@
       <p> Great! You are now ready to start the main experiment.</p>
     </InstructionScreen>
 
-    <template v-for="(trial, i) of training_trials">
+    <template v-for="(trial, i) of main_trials">
       <KeypressScreen
       :key="'training-' + i"
       :keys="key_allocation"
